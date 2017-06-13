@@ -1,4 +1,4 @@
-# ann_xor
+# Genetic Algorithm
 A genetic algorithm to solve the Travelling Salesman Problem implemented in Python.
 
 # ![logo](fig1.png)
